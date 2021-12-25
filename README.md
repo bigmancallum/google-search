@@ -7,4 +7,4 @@ Search on Google but with HTML code on my website.
 https://bigmancallum.ga/google-search
 
 ### How it works
-![How Google Search on Website works](https://user-images.githubusercontent.com/47284263/147373288-66063631-ad0b-41f9-850b-136f6c4476b5.mp4)
+![How Google Search on Website works](https://user-images.githubusercontent.com/47284263/147386424-7102439f-516c-406f-a70d-5244d1b776d0.gif)
